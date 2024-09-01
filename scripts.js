@@ -102,8 +102,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             '02': 'Ana Türkçe',
             '03': 'Çocuk Ağzı',
             '04': 'Çakılmalı',
-            '05': 'Yad',
-            '06': 'Türkçe',
+            '05': 'Türkçe',
+            '06': 'Yad',
         };
 
         let markedText = text;
